@@ -1,16 +1,12 @@
-# A8 Sports
-A8 Sports is committed to promoting fitness and weight training equipment, so that people can purchase professional weight lifting equipment in their daily life with high efficiency and quality, and at the same time can easily record the strength training every day, the training volume and results every day, so that you can better adhere to each record.
+# Digital Hotspots Park
+Digital Hotspots Park is an app that can quickly access the latest news information, easily Book offline courses, and easily understand the real-time market.
 
-- Our app shows a full range of weight lifting equipment, including weight lifting protective belt, weight training outfit, grip anti-skid powder, strength training equipment, weight lifting booster belt and other weight lifting equipment. These categories of complete weight lifting fitness equipment can meet the user's selection and procurement.
+-Our app has the latest news information, basic knowledge, coin circle events, industry information and other information within the circle. We can also get real-time market information of various currencies and reserve offline lectures.
 
-- Our app has classified these weight-lifting equipment in great detail, which helps users to quickly find the weight-lifting equipment they want to buy.
+-Our app can also provide our own opinions on hot news information, share news information and collect valuable news.
 
-- Our APP introduces each product in detail, so that you can fully understand these products, find your favorite weight lifting and fitness equipment, so that you can purchase and place an order.
+-Our app can also express your opinions in the community and exchange your ideas with others, so that you can go deeper into this circle.
 
-- Our app also has the function of commodity collection. Your favorite weightlifting equipment can be collected in the collection list, which is convenient for you to browse and place orders.
-
-- Our app also has the function of recording the daily training amount. You can record the daily strength training, the daily training amount and training results, and at the same time, you can share your training results to others.
-
-Buy professional weight lifting equipment and keep track of daily strength training
+Hot information exchange and sharing platform.
 
 If you have any questions, please contact us as follows :bvcpo3q@icloud.com
