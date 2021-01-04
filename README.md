@@ -9,4 +9,4 @@ Digital Hotspots Park is an app that can quickly access the latest news informat
 
 Hot information exchange and sharing platform.
 
-If you have any questions, please contact us as follows :bvcpo3q@icloud.com
+If you have any questions, please contact us as follows :stetheuci@hotmail.com
